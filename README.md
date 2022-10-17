@@ -27,3 +27,5 @@ npm deploy
 ```bash
 npm test
 ```
+
+Contract deployed at: [Goerli Etherscan](https://goerli.etherscan.io/address/0xA5B03e89d6cC08ae286742075e7afAad756e64DF)
