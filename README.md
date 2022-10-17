@@ -8,6 +8,7 @@ This project represents a simple escrow smart contract that can be used to trans
 ```bash
 git clone https://github.com/dindonero/escrow-smart-contract-hardhat.git
 cd escrow-smart-contract-hardhat
+yarn install
 npm install
 ```
 2. (Optional: Goerli) Create a `.env` file in the root directory and add the following environment variables:
